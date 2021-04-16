@@ -1,3 +1,3 @@
-<script>
-  console.log('this is a injected script tag')
-</script>
+const msg = 'this is a injected script tag'
+console.log(msg)
+
